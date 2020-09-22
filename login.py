@@ -33,7 +33,7 @@ except ImportError:
 #=====================================================================
 #=====================================================================
 #cannibal = LINE("tokenmu")
-cannibal = LINE("@gmail.com","password")
+cannibal = LINE("dekaviuw@gmail.com","Aku123lo")
 cannibal.log("Auth Token : " + str(cannibal.authToken))
 waitOpen = codecs.open("cannibal/wait.json","r","utf-8")
 settingsOpen = codecs.open("cannibal/temp.json","r","utf-8")
